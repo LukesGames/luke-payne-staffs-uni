@@ -1,7 +1,13 @@
 [
   {
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukegames.github.io/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride"
+  },
+  {
     "rideName":"Placeholder1",
     "rideImage": "Placeholder 1",
     "rideType": "Thrill Rides"
   }
+  
 ]
