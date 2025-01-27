@@ -2,12 +2,61 @@
   {
     "rideName":"Space Voyager",
     "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
-    "rideType": "Family Ride"
+    "rideType": "Family Ride",
+    "rideDesc": ""
   },
-  {
-    "rideName":"Placeholder1",
-    "rideImage": "Placeholder 1",
-    "rideType": "Thrill Rides"
-  }
-  
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  },
+{
+    "rideName":"Space Voyager",
+    "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
+    "rideType": "Family Ride",
+    "rideDesc": ""
+  } 
 ]
