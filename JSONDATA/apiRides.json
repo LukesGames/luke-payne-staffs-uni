@@ -3,50 +3,49 @@
     "rideName": "Space Voyager",
     "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
     "rideType": "Family Ride",
-    "rideDesc": ""
+    "rideDesc": "Fun for the whole family! Prepare for your intergalactic battle between good and bad, and soar through space on a mission to defeat all evil. Pick your side, take your seat and prepare for battle! "
   },
 
 {
     "rideName": "Free Fall",
     "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/freefall.jpg",
     "rideType": "Thrill Ride",
-    "rideDesc": ""
+    "rideDesc": "Are you brave enough to look down? Face your fears and feel the rush of adrenaline as you experience the thrill of Free Fall, plunging 180ft in pure darkness! You know you shouldn’t look, but you can’t help but take a peek. "
   },
 
 {
   "rideName": "High Flyer",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/wheel.jpg",
   "rideType": "Family Ride",
-  "rideDesc": ""
+  "rideDesc": "Not keen on rollercoasters or just fancy a relaxing view of the park? Then High Flyer is the ride for you. High Flyer gives riders the opportunity to experience the park on a whole other level."
 },
 
 {
   "rideName": "The Giggler",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/giggler.jpg",
   "rideType": "Thrill Ride",
-  "rideDesc": ""
+  "rideDesc": "Once you start, you just can’t stop. The five mind manipulation stages will leave you giggling for hours. With the mix of inversions and scary vertical lift hills, you won’t know whether to laugh or cry. If you’re an adrenaline junkie, then this ride is for you. Remember, you belong to The Giggler! "
 },
 
 {
   "rideName": "The Punisher",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/punishher.jpg",
   "rideType": "Thrill Ride",
-  "rideDesc": ""
+  "rideDesc": "You woke it up. The creature has risen. Are you ready to face your punishment? Dangle below the track of this inverted coaster as you feel the wind hit your face, like the arms of the creature, as your whipped around in every direction through different inversions. Will you defeat the creature or will you become its next victim? "
 },
 
 {
   "rideName": "Bamboo Boy",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/bambooboy.jpg",
   "rideType": "Family Ride",
-  "rideDesc": "The UK’s first and only wooden rollercoaster! Bamboo boy is a high speed, family friendly ride with no inversions. Ignite your senses and join the chosen ones as you twist, turn and drop through the labyrinth of twisted tracks. The burning embers light the way as you hurtle towards him. Speeding towards Bamboo Boy, he bursts into flames as you burst through his chest, not once, not twice, but three times! Long live Bamboo Boy!",
-  "rideFac": ""
+  "rideDesc": "The UK’s first and only wooden rollercoaster! Bamboo boy is a high speed, family friendly ride with no inversions. Ignite your senses and join the chosen ones as you twist, turn and drop through the labyrinth of twisted tracks. The burning embers light the way as you hurtle towards him. Speeding towards Bamboo Boy, he bursts into flames as you burst through his chest, not once, not twice, but three times! Long live Bamboo Boy!"
 },
 
 {
   "rideName": "Mission Mars",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/spacevoyager.jpg",
   "rideType": "Family Ride",
-  "rideDesc": "Facilities: /nBag storage: yes (bags given to staff, wristband given to collect at the end) /nWheelchair lift: yes, at the end of the ride /nTest seat: yes /nFastrack ticket: yes /nSingle rider queue: yes /nOn-ride photos: yes"
+  "rideDesc": "Are you ready to blast off on the only flying rollercoaster in the UK? Mission Mars is a one of a kind rollercoaster, in which you are made to feel as though you’re flying. You will travel through wormholes into other dimensions, in order to complete your mission. Are you ready to blast off on the only flying rollercoaster in the UK? "
 }
 
 ]
