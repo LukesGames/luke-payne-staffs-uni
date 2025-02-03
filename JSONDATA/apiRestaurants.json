@@ -7,19 +7,19 @@
   },
   {
     "restName": "Boulevard Buffet",
-    "restPic": "",
+    "restPic": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/restuarant/boulevard.jpg",
     "restDesc": "Can’t decide what you fancy? Here at Boulevard Buffet, you don’t have to choose! Eat as little or as much as you’d like, with new and exciting dishes being made every day from all different cuisines! Vegan, vegetarian and gluten free options available. For allergen advice, see menu."
 
   },
   {
     "restName": "Pizza & Pasta Passion",
-    "restPic": "",
+    "restPic": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/restuarant/pizza.jpg",
     "restDesc": "Fill up on our delicious pizza and pasta buffet. Help yourselves to as many slices of pizza or bowls of pasta as you’d like! There’s something for everyone here. All buffet options purchased include unlimited salad and unlimited drinks. Vegan and vegetarian options available. Gluten free items made fresh per request. For allergen advice, see menu"
 
   },
   {
     "restName": "Lite Bites",
-    "restPic": "",
+    "restPic": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/restuarant/lightbites.jpg",
     "restDesc": "Lite Bites gives you the option of sandwiches, toasties, paninis, cakes and a selection of hot and cold drinks, if you don’t fancy a big sit down meal. Vegan, vegetarian and gluten free options available. For allergen advice, see menu."
   }
 ]
