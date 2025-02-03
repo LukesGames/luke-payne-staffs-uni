@@ -5,15 +5,40 @@
     "rideType": "Family Ride",
     "rideDesc": ""
   },
+
 {
     "rideName": "Free Fall",
     "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/freefall.jpg",
     "rideType": "Thrill Ride",
     "rideDesc": ""
   },
+
 {
   "rideName": "High Flyer",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/wheel.jpg",
-  "rideType": "Family Ride"
+  "rideType": "Family Ride",
+  "rideDesc": ""
+},
+
+{
+  "rideName": "The Giggler",
+  "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/giggler.jpg",
+  "rideType": "Thrill Ride",
+  "rideDesc": ""
+},
+
+{
+  "rideName": "The Punisher",
+  "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/punishher.jpg",
+  "rideType": "Thrill Ride",
+  "rideDesc": ""
+},
+
+{
+  "rideName": "Bamboo Boy",
+  "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/bambooboy.jpg",
+  "rideType": "Family Ride",
+  "rideDesc": ""
 }
+
 ]
