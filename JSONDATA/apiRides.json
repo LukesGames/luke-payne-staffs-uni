@@ -3,34 +3,7 @@
     "rideName": "Space Voyager",
     "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/space.jpg",
     "rideType": "Family Ride",
-    "rideDesc": `Fun for the whole family! Prepare for your intergalactic battle between good and bad, and soar through space on a mission to defeat all evil. Pick your side, take your seat and prepare for battle!
-
-Height Restrictions: Riders must be a minimum of 1.2m (120cm  tall to ride. 
-
-Facilities: 
-- Bag storage available: yes 
-- Wheelchair lift: not applicable 
-- Test seat: yes 
-- Fastrack ticket: yes 
-- Single rider queue: no 
-- On-ride photos: no 
-
-Stats and facts: 
-- Height: 127ft 
-- Speed: 67mph 
-- G-force: 4.5
-- Length: 1890ft
-- Inversions: 3 
-
-Advisories before riding: 
-- Safety restraints will be in place, which may not be able to accommodate everyone. Please use the test seat available next to the ride entrance to determine your ability to ride. 
-- Guests must remove prosthetic limbs before riding. 
-- All loose items, including bags, phones, cameras, glasses and anything else you do not wish to lose must be placed in the designated lockers or left with a non-rider outside the ride. 
-
-Access: 
-- Ambulant user access via the main ride entrance. 
-- Non-ambulant/wheelchair user access via the ride exit, located to the right of the operator booth. 
-`
+    "rideDesc": ""
   },
 
 {
