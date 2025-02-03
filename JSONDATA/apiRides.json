@@ -38,14 +38,15 @@
   "rideName": "Bamboo Boy",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/bambooboy.jpg",
   "rideType": "Family Ride",
-  "rideDesc": ""
+  "rideDesc": "The UK’s first and only wooden rollercoaster! Bamboo boy is a high speed, family friendly ride with no inversions. Ignite your senses and join the chosen ones as you twist, turn and drop through the labyrinth of twisted tracks. The burning embers light the way as you hurtle towards him. Speeding towards Bamboo Boy, he bursts into flames as you burst through his chest, not once, not twice, but three times! Long live Bamboo Boy!",
+  "rideFac": ""
 },
 
 {
   "rideName": "Mission Mars",
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/spacevoyager.jpg",
   "rideType": "Family Ride",
-  "rideDesc": ""
+  "rideDesc": "Facilities: /nBag storage: yes (bags given to staff, wristband given to collect at the end) /nWheelchair lift: yes, at the end of the ride /nTest seat: yes /nFastrack ticket: yes /nSingle rider queue: yes /nOn-ride photos: yes"
 }
 
 ]
