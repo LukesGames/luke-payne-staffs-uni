@@ -39,6 +39,13 @@
   "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/bambooboy.jpg",
   "rideType": "Family Ride",
   "rideDesc": ""
+},
+
+{
+  "rideName": "Mission Mars",
+  "rideImage": "https://lukesgames.github.io/luke-payne-staffs-uni/JSONDATA/images/spacevoyager.jpg",
+  "rideType": "Family Ride",
+  "rideDesc": ""
 }
 
 ]
